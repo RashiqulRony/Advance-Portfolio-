@@ -5529,58 +5529,7 @@ var render = function render() {
     }
   })]), _vm._v(" "), _vm._m(0), _vm._v(" "), _c("p", {
     staticClass: "banner__content-moto"
-  }, [_vm._v("Anyone can invest money to different currency to\n                                increase their earnings\n                                by the help of Bitrader through online.\n                            ")]), _vm._v(" "), _c("div", {
-    staticClass: "banner__btn-group btn-group"
-  }, [_vm._m(1), _vm._v(" "), _c("a", {
-    staticClass: "trk-btn trk-btn--outline22",
-    attrs: {
-      href: "https://www.youtube.com/watch?v=MHhIzIgFgJo&ab_channel=NoCopyrightFootages",
-      "data-fslightbox": ""
-    }
-  }, [_c("span", {
-    staticClass: "style1"
-  }, [_c("svg", {
-    attrs: {
-      xmlns: "http://www.w3.org/2000/svg",
-      width: "24",
-      height: "24",
-      viewBox: "0 0 24 24",
-      fill: "none"
-    }
-  }, [_c("g", {
-    attrs: {
-      "clip-path": "url(#clip0_1397_814)"
-    }
-  }, [_c("path", {
-    attrs: {
-      d: "M10.5547 7.03647C9.89015 6.59343 9 7.06982 9 7.86852V16.1315C9 16.9302 9.89015 17.4066 10.5547 16.9635L16.7519 12.8321C17.3457 12.4362 17.3457 11.5638 16.7519 11.1679L10.5547 7.03647Z",
-      stroke: "#0A4FD5",
-      "stroke-width": "1.5",
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round"
-    }
-  })]), _vm._v(" "), _c("rect", {
-    attrs: {
-      x: "-0.75",
-      y: "0.75",
-      width: "22.5",
-      height: "22.5",
-      rx: "11.25",
-      transform: "matrix(-1 0 0 1 22.5 0)",
-      stroke: "#0A4FD5",
-      "stroke-width": "1.5"
-    }
-  }), _vm._v(" "), _c("defs", [_c("clipPath", {
-    attrs: {
-      id: "clip0_1397_814"
-    }
-  }, [_c("rect", {
-    attrs: {
-      width: "24",
-      height: "24",
-      fill: "white"
-    }
-  })])])])]), _vm._v(" Watch Video\n                                ")])]), _vm._v(" "), _vm._m(2)])]), _vm._v(" "), _c("div", {
+  }, [_vm._v("\n                                I am a Web application developer expert with excellent experience in HTML5, CSS3, Bootstrap, JavaScript, jQuery, PHP, PHP Laravel, VueJs, Angular &  ReactJs Framework and other platforms. Till date, I have created many websites and application, most of which required custom designed plugins, extensions, and themes. My aim has always been to produce websites that look beautiful and professional, are highly functional, load quickly, and are Search Engine optimized.\n                            ")]), _vm._v(" "), _vm._m(1), _vm._v(" "), _vm._m(2)])]), _vm._v(" "), _c("div", {
     staticClass: "col-lg-6 col-md-5"
   }, [_c("div", {
     staticClass: "banner__thumb",
@@ -6565,18 +6514,20 @@ var staticRenderFns = [function () {
     _c = _vm._self._c;
   return _c("h1", {
     staticClass: "banner__content-heading"
-  }, [_vm._v("Invest your money\n                                with "), _c("span", [_vm._v("higher return")])]);
+  }, [_vm._v("Hello... "), _c("br"), _vm._v("\n                                I am "), _c("span", [_vm._v("Rashiqul Rony")])]);
 }, function () {
   var _vm = this,
     _c = _vm._self._c;
-  return _c("a", {
+  return _c("div", {
+    staticClass: "banner__btn-group btn-group"
+  }, [_c("a", {
     staticClass: "trk-btn trk-btn--primary trk-btn--arrow",
     attrs: {
       href: "signin.html"
     }
   }, [_vm._v("Get Started\n                                    "), _c("span", [_c("i", {
     staticClass: "fa-solid fa-arrow-right"
-  })])]);
+  })])])]);
 }, function () {
   var _vm = this,
     _c = _vm._self._c;
@@ -8447,13 +8398,6 @@ var staticRenderFns = [function () {
   }, [_c("div", {
     staticClass: "menu-area"
   }, [_c("div", {
-    staticClass: "header-btn"
-  }, [_c("a", {
-    staticClass: "trk-btn trk-btn--border trk-btn--primary",
-    attrs: {
-      href: "signup.html"
-    }
-  }, [_c("span", [_vm._v("Join Now")])])]), _vm._v(" "), _c("div", {
     staticClass: "header-bar d-lg-none header-bar--style1"
   }, [_c("span"), _vm._v(" "), _c("span"), _vm._v(" "), _c("span")])])]);
 }];

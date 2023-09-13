@@ -28,12 +28,6 @@
                         </div>
                         <div class="header-action">
                             <div class="menu-area">
-                                <div class="header-btn">
-                                    <a href="signup.html" class="trk-btn trk-btn--border trk-btn--primary">
-                                        <span>Join Now</span>
-                                    </a>
-                                </div>
-
                                 <!-- toggle icons -->
                                 <div class="header-bar d-lg-none header-bar--style1">
                                     <span></span>

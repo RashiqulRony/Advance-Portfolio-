@@ -16,35 +16,14 @@
                                 <div class="banner__content-coin">
                                     <img :src="'/assets/images/banner/home1/3.png'" alt="coin icon">
                                 </div>
-                                <h1 class="banner__content-heading">Invest your money
-                                    with <span>higher return</span></h1>
-                                <p class="banner__content-moto">Anyone can invest money to different currency to
-                                    increase their earnings
-                                    by the help of Bitrader through online.
+                                <h1 class="banner__content-heading">Hello... <br>
+                                    I am <span>Rashiqul Rony</span></h1>
+                                <p class="banner__content-moto">
+                                    I am a Web application developer expert with excellent experience in HTML5, CSS3, Bootstrap, JavaScript, jQuery, PHP, PHP Laravel, VueJs, Angular &  ReactJs Framework and other platforms. Till date, I have created many websites and application, most of which required custom designed plugins, extensions, and themes. My aim has always been to produce websites that look beautiful and professional, are highly functional, load quickly, and are Search Engine optimized.
                                 </p>
                                 <div class="banner__btn-group btn-group">
                                     <a href="signin.html" class="trk-btn trk-btn--primary trk-btn--arrow">Get Started
                                         <span><i class="fa-solid fa-arrow-right"></i></span> </a>
-
-                                    <a href="https://www.youtube.com/watch?v=MHhIzIgFgJo&amp;ab_channel=NoCopyrightFootages"
-                                       class="trk-btn trk-btn--outline22"
-                                       data-fslightbox>
-                  <span class="style1"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-                                            viewBox="0 0 24 24" fill="none">
-                      <g clip-path="url(#clip0_1397_814)">
-                        <path
-                            d="M10.5547 7.03647C9.89015 6.59343 9 7.06982 9 7.86852V16.1315C9 16.9302 9.89015 17.4066 10.5547 16.9635L16.7519 12.8321C17.3457 12.4362 17.3457 11.5638 16.7519 11.1679L10.5547 7.03647Z"
-                            stroke="#0A4FD5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                      </g>
-                      <rect x="-0.75" y="0.75" width="22.5" height="22.5" rx="11.25" transform="matrix(-1 0 0 1 22.5 0)"
-                            stroke="#0A4FD5" stroke-width="1.5"/>
-                      <defs>
-                        <clipPath id="clip0_1397_814">
-                          <rect width="24" height="24" fill="white"/>
-                        </clipPath>
-                      </defs>
-                    </svg></span> Watch Video
-                                    </a>
                                 </div>
                                 <div class="banner__content-social">
                                     <p>Follow Us</p>
