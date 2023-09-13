@@ -1,7 +1,7 @@
 <template>
     <div>
         <loader v-if="isLoading" object="#ff9633" color1="#ffffff" color2="#17fd3d" size="12" speed="2.5" bg="#000000" objectbg="#000000" opacity="90" disableScrolling="true" name="circular"></loader>
-        <header class="header-section header-section--style2">
+        <header class="" :class="this.$route.name === 'Home' ? 'header-section header-section--style2' : 'header-section bg-color-3'">
             <div class="header-bottom">
                 <div class="container">
                     <div class="header-wrapper">
@@ -17,6 +17,9 @@
                                 </li>
                                 <li>
                                     <router-link :to="'/about'">About</router-link>
+                                </li>
+                                <li>
+                                    <router-link :to="'/service'">Service</router-link>
                                 </li>
                                 <li>
                                     <router-link :to="'/contact-us'">Contact Us</router-link>

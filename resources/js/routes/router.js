@@ -5,6 +5,7 @@ Vue.use(Router);
 
 import FrontLayout  from '../components/layouts/FrontLayout.vue'
 import Home         from '../components/Home.vue'
+import Service      from '../components/Service.vue'
 
 
 const router =  new Router({
@@ -24,6 +25,11 @@ const router =  new Router({
                     path: "/about",
                     name: "Home",
                     component: Home,
+                },
+                {
+                    path: "/service",
+                    name: "Service",
+                    component: Service,
                 },
             ],
 
