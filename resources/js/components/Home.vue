@@ -22,27 +22,24 @@
                                     I am a Web application developer expert with excellent experience in HTML5, CSS3, Bootstrap, JavaScript, jQuery, PHP, PHP Laravel, VueJs, Angular &  ReactJs Framework and other platforms. Till date, I have created many websites and application, most of which required custom designed plugins, extensions, and themes. My aim has always been to produce websites that look beautiful and professional, are highly functional, load quickly, and are Search Engine optimized.
                                 </p>
                                 <div class="banner__btn-group btn-group">
-                                    <a href="signin.html" class="trk-btn trk-btn--primary trk-btn--arrow">Get Started
-                                        <span><i class="fa-solid fa-arrow-right"></i></span> </a>
+                                    <router-link :to="'/contact-us'" class="trk-btn trk-btn--primary trk-btn--arrow">
+                                        Get Started <span><i class="fa-solid fa-arrow-right"></i></span>
+                                    </router-link>
                                 </div>
                                 <div class="banner__content-social">
                                     <p>Follow Us</p>
                                     <ul class="social">
                                         <li class="social__item">
-                                            <a href="signin.html" class="social__link social__link--style1"><i
-                                                class="fab fa-git"></i></a>
+                                            <a href="#" class="social__link social__link--style1"><i class="fab fa-git"></i></a>
                                         </li>
                                         <li class="social__item">
-                                            <a href="#" class="social__link social__link--style1"><i
-                                                class="fab fa-linkedin-in"></i></a>
+                                            <a href="#" class="social__link social__link--style1"><i class="fab fa-linkedin-in"></i></a>
                                         </li>
                                         <li class="social__item">
-                                            <a href="#" class="social__link social__link--style1"><i
-                                                class="fab fa-youtube"></i></a>
+                                            <a href="#" class="social__link social__link--style1"><i class="fab fa-youtube"></i></a>
                                         </li>
                                         <li class="social__item">
-                                            <a href="#" class="social__link social__link--style1"><i
-                                                class="fab fa-facebook-f"></i></a>
+                                            <a href="#" class="social__link social__link--style1"><i class="fab fa-facebook-f"></i></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -100,7 +97,28 @@
                             <div class="swiper-slide">
                                 <div class="partner__item">
                                     <div class="partner__item-inner">
+                                        <img style="width: 100px" :src="'/assets/images/dev-icon/python.png'" alt="android" class="dark">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="partner__item">
+                                    <div class="partner__item-inner">
+                                        <img style="width: 100px" :src="'/assets/images/dev-icon/django.png'" alt="android" class="dark">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="partner__item">
+                                    <div class="partner__item-inner">
                                         <img style="width: 100px" :src="'/assets/images/dev-icon/android.png'" alt="android" class="dark">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="partner__item">
+                                    <div class="partner__item-inner">
+                                        <img style="width: 100px" :src="'/assets/images/dev-icon/flutter.png'" alt="android" class="dark">
                                     </div>
                                 </div>
                             </div>
@@ -209,22 +227,17 @@
                             <div class="about__thumb pe-lg-5" data-aos="fade-right" data-aos-duration="800">
                                 <div class="about__thumb-inner">
                                     <div class="about__thumb-image floating-content">
-                                        <img class="dark" :src="'/assets/images/about/1.png'" alt="about-image">
+                                        <img class="dark" :src="'/assets/images/common/home-about.png'" alt="about-image">
                                         <div class="floating-content__top-left">
                                             <div class="floating-content__item">
-                                                <h3><span class="purecounter" data-purecounter-start="0"
-                                                          data-purecounter-end="10">30</span>
-                                                    Years
-                                                </h3>
-                                                <p>Consulting Experience</p>
+                                                <h3><span class="purecounter" data-purecounter-start="0" data-purecounter-end="7">7</span>Years</h3>
+                                                <p>+ Experience</p>
                                             </div>
                                         </div>
                                         <div class="floating-content__bottom-right">
                                             <div class="floating-content__item">
-                                                <h3><span class="purecounter" data-purecounter-start="0"
-                                                          data-purecounter-end="25">25K</span>K+
-                                                </h3>
-                                                <p>Satisfied Customers</p>
+                                                <h3><span class="purecounter" data-purecounter-start="0" data-purecounter-end="100">100</span>+</h3>
+                                                <p>Completed Projects</p>
                                             </div>
                                         </div>
                                     </div>
@@ -234,17 +247,11 @@
                         <div class="col-lg-6">
                             <div class="about__content" data-aos="fade-left" data-aos-duration="800">
                                 <div class="about__content-inner">
-                                    <h2>Meet <span>our company</span> unless miss the opportunity </h2>
-
-                                    <p class="mb-0">Hey there! So glad you stopped by to Meet Our Company. Don't miss
-                                        out on this
-                                        opportunity to learn about what we do and the amazing team that makes it all
-                                        happen! Our company is
-                                        all about creating innovative solutions and providing top-notch services to our
-                                        clients. From start to
-                                        finish, we're dedicated to delivering results that exceed expectations. </p>
-                                    <a href="about.html" class="trk-btn trk-btn--border trk-btn--primary">Explore
-                                        More </a>
+                                    <h2>About <span>Me</span></h2>
+                                    <p class="mb-0">
+                                        In line with my interest and performance in Computer Engineering I have decided to build up my career in the professional field. So, I would like to show my immense aspiration to become a quick learner and to prove myself as a sincere and energetic person through extensive hard working and integrity.
+                                    </p>
+                                    <router-link :to="'/about'" class="trk-btn trk-btn--border trk-btn--primary">Explore More </router-link>
                                 </div>
                             </div>
                         </div>
@@ -453,16 +460,17 @@
                 </div>
             </div>
             <div class="feature__shape">
-      <span class="feature__shape-item feature__shape-item--1"><img :src="'/assets/images/feature/shape/1.png'"
-                                                                    alt="shape-icon"></span>
+                <span class="feature__shape-item feature__shape-item--1">
+                    <img :src="'/assets/images/feature/shape/1.png'" alt="shape-icon">
+                </span>
                 <span class="feature__shape-item feature__shape-item--2"> <span></span> </span>
             </div>
         </section>
 
         <section class="service padding-top padding-bottom">
             <div class="section-header section-header--max50">
-                <h2 class="mb-15 mt-minus-5"><span>services </span>We offer</h2>
-                <p>We offer the best services around - from installations to repairs, maintenance, and more!</p>
+                <h2 class="mb-15 mt-minus-5"><span>services </span></h2>
+                <p>I'm offer the best services- All Kinds of IT Solutions Services and SEO Marketing Platform.</p>
             </div>
             <div class="container">
                 <div class="service__wrapper">
@@ -476,11 +484,8 @@
                                         </div>
                                     </div>
                                     <div class="service__content">
-                                        <h5 class="mb-15"><a class="stretched-link" href="service-details.html">Strategy
-                                            Consulting</a></h5>
-                                        <p class="mb-0">A social assistant that's flexible can accommodate your schedule
-                                            and needs, making
-                                            life easier.</p>
+                                        <h5 class="mb-15"> <a class="stretched-link" href="#">Website Design & Development</a> </h5>
+                                        <p class="mb-0">A social assistant that's flexible can accommodate your schedule and needs, making life easier.</p>
                                     </div>
                                 </div>
                             </div>
@@ -494,11 +499,23 @@
                                         </div>
                                     </div>
                                     <div class="service__content">
-                                        <h5 class="mb-15"><a class="stretched-link" href="service-details.html">
-                                            Financial Advisory</a></h5>
-                                        <p class="mb-0">Modules transform smart trading by automating processes and
-                                            improving decision-making.
-                                        </p>
+                                        <h5 class="mb-15"> <a class="stretched-link" href="#"> Web Application Development</a> </h5>
+                                        <p class="mb-0">Modules transform smart trading by automating processes and improving decision-making.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-lg-4">
+                            <div class="service__item" data-aos="fade-up" data-aos-duration="1000">
+                                <div class="service__item-inner text-center">
+                                    <div class="service__thumb mb-30">
+                                        <div class="service__thumb-inner">
+                                            <img class="dark" :src="'/assets/images/service/2.png'" alt="service-icon">
+                                        </div>
+                                    </div>
+                                    <div class="service__content">
+                                        <h5 class="mb-15"> <a class="stretched-link" href="#"> Mobile App Development</a> </h5>
+                                        <p class="mb-0">Modules transform smart trading by automating processes and improving decision-making.</p>
                                     </div>
                                 </div>
                             </div>
@@ -512,11 +529,8 @@
                                         </div>
                                     </div>
                                     <div class="service__content">
-                                        <h5 class="mb-15"><a class="stretched-link" href="service-details.html">Management</a>
-                                        </h5>
-                                        <p class="mb-0">There, it's me, your friendly neighborhood reporter's news
-                                            analyst processes and
-                                            improving</p>
+                                        <h5 class="mb-15"> <a class="stretched-link" href="#">E-commerce Solution</a> </h5>
+                                        <p class="mb-0">There, it's me, your friendly neighborhood reporter's news analyst processes and improving</p>
                                     </div>
                                 </div>
                             </div>
@@ -530,12 +544,9 @@
                                         </div>
                                     </div>
                                     <div class="service__content">
-                                        <h5 class="mb-15"><a class="stretched-link" href="service-details.html">Supply
-                                            Optimization </a>
+                                        <h5 class="mb-15"> <a class="stretched-link" href="#">Enterprise Solution</a>
                                         </h5>
-                                        <p class="mb-0">Hey, have you checked out that new cryptocurrency platform? It's
-                                            pretty cool and easy
-                                            to use!</p>
+                                        <p class="mb-0">Hey, have you checked out that new cryptocurrency platform? It's pretty cool and easy to use!</p>
                                     </div>
                                 </div>
                             </div>
@@ -549,11 +560,8 @@
                                         </div>
                                     </div>
                                     <div class="service__content">
-                                        <h5 class="mb-15"><a class="stretched-link" href="service-details.html">HR
-                                            consulting</a></h5>
-                                        <p class="mb-0">Hey guys, just a quick update on exchange orders. There have
-                                            been some changes
-                                            currency!</p>
+                                        <h5 class="mb-15"> <a class="stretched-link" href="#">SQA Solution</a> </h5>
+                                        <p class="mb-0">Hey guys, just a quick update on exchange orders. There have been some changes currency!</p>
                                     </div>
                                 </div>
                             </div>
@@ -567,12 +575,41 @@
                                         </div>
                                     </div>
                                     <div class="service__content">
-                                        <h5 class="mb-15"><a class="stretched-link" href="service-details.html">Marketing
-                                            consulting</a>
+                                        <h5 class="mb-15"> <a class="stretched-link" href="#">SEO Marketing</a>
                                         </h5>
-                                        <p class="mb-0">Hey! Just wanted to let you know that the price notification
-                                            module processes is now
-                                            live!</p>
+                                        <p class="mb-0">Hey! Just wanted to let you know that the price notification module processes is now live!</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-lg-4">
+                            <div class="service__item" data-aos="fade-up" data-aos-duration="1200">
+                                <div class="service__item-inner text-center">
+                                    <div class="service__thumb mb-30">
+                                        <div class="service__thumb-inner">
+                                            <img class="dark" :src="'/assets/images/service/6.png'" alt="service-icon">
+                                        </div>
+                                    </div>
+                                    <div class="service__content">
+                                        <h5 class="mb-15"> <a class="stretched-link" href="#">Digital Marketing</a>
+                                        </h5>
+                                        <p class="mb-0">Hey! Just wanted to let you know that the price notification module processes is now live!</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-lg-4">
+                            <div class="service__item" data-aos="fade-up" data-aos-duration="1200">
+                                <div class="service__item-inner text-center">
+                                    <div class="service__thumb mb-30">
+                                        <div class="service__thumb-inner">
+                                            <img class="dark" :src="'/assets/images/service/6.png'" alt="service-icon">
+                                        </div>
+                                    </div>
+                                    <div class="service__content">
+                                        <h5 class="mb-15"> <a class="stretched-link" href="#">Social media Marketing</a>
+                                        </h5>
+                                        <p class="mb-0">Hey! Just wanted to let you know that the price notification module processes is now live!</p>
                                     </div>
                                 </div>
                             </div>

@@ -6,6 +6,8 @@ Vue.use(Router);
 import FrontLayout  from '../components/layouts/FrontLayout.vue'
 import Home         from '../components/Home.vue'
 import Service      from '../components/Service.vue'
+import Contact      from '../components/Contact.vue'
+import NotFound     from '../components/NotFound.vue'
 
 
 const router =  new Router({
@@ -31,18 +33,19 @@ const router =  new Router({
                     name: "Service",
                     component: Service,
                 },
+                {
+                    path: "/contact-us",
+                    name: "Contact",
+                    component: Contact,
+                },
+                {
+                    path: "/:catchAll(.*)",
+                    name: "NotFound",
+                    component: NotFound
+                }
             ],
 
         },
-
-
-
-        /*{
-            path: "/:catchAll(.*)",
-            name: "NotFound",
-            component: NotFound,
-            meta: {title: '404 Not Found'}
-        }*/
     ],
 
     scrollBehavior (to, from, savedPosition) {
