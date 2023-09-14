@@ -5523,9 +5523,12 @@ var render = function render() {
   }, [_c("div", {
     staticClass: "banner__content-coin"
   }, [_c("img", {
+    staticStyle: {
+      width: "100px"
+    },
     attrs: {
-      src: "/assets/images/banner/home1/3.png",
-      alt: "coin icon"
+      src: "/assets/images/dev-icon/code.png",
+      alt: "code icon"
     }
   })]), _vm._v(" "), _vm._m(0), _vm._v(" "), _c("p", {
     staticClass: "banner__content-moto"
@@ -5548,9 +5551,12 @@ var render = function render() {
   }, [_c("span", {
     staticClass: "banner__shape-item banner__shape-item--1"
   }, [_c("img", {
+    staticStyle: {
+      width: "80px"
+    },
     attrs: {
-      src: "/assets/images/banner/home1/4.png",
-      alt: "shape icon"
+      src: "/assets/images/dev-icon/laravel.png",
+      alt: "laravel icon"
     }
   })])])]), _vm._v(" "), _c("div", {
     staticClass: "partner partner--gradient"
@@ -5570,9 +5576,12 @@ var render = function render() {
     staticClass: "partner__item-inner"
   }, [_c("img", {
     staticClass: "dark",
+    staticStyle: {
+      width: "100px"
+    },
     attrs: {
-      src: "/assets/images/partner/light/1.png",
-      alt: "partner logo"
+      src: "/assets/images/dev-icon/php.png",
+      alt: "php"
     }
   })])])]), _vm._v(" "), _c("div", {
     staticClass: "swiper-slide"
@@ -5582,9 +5591,12 @@ var render = function render() {
     staticClass: "partner__item-inner"
   }, [_c("img", {
     staticClass: "dark",
+    staticStyle: {
+      width: "100px"
+    },
     attrs: {
-      src: "/assets/images/partner/light/2.png",
-      alt: "partner logo"
+      src: "/assets/images/dev-icon/laravel.png",
+      alt: "laravel"
     }
   })])])]), _vm._v(" "), _c("div", {
     staticClass: "swiper-slide"
@@ -5594,9 +5606,12 @@ var render = function render() {
     staticClass: "partner__item-inner"
   }, [_c("img", {
     staticClass: "dark",
+    staticStyle: {
+      width: "100px"
+    },
     attrs: {
-      src: "/assets/images/partner/light/3.png",
-      alt: "partner logo"
+      src: "/assets/images/dev-icon/codeigniter.png",
+      alt: "codeigniter"
     }
   })])])]), _vm._v(" "), _c("div", {
     staticClass: "swiper-slide"
@@ -5606,9 +5621,12 @@ var render = function render() {
     staticClass: "partner__item-inner"
   }, [_c("img", {
     staticClass: "dark",
+    staticStyle: {
+      width: "100px"
+    },
     attrs: {
-      src: "/assets/images/partner/light/4.png",
-      alt: "partner logo"
+      src: "/assets/images/dev-icon/mysql.png",
+      alt: "mysql"
     }
   })])])]), _vm._v(" "), _c("div", {
     staticClass: "swiper-slide"
@@ -5618,9 +5636,207 @@ var render = function render() {
     staticClass: "partner__item-inner"
   }, [_c("img", {
     staticClass: "dark",
+    staticStyle: {
+      width: "100px"
+    },
     attrs: {
-      src: "/assets/images/partner/light/5.png",
-      alt: "partner logo"
+      src: "/assets/images/dev-icon/android.png",
+      alt: "android"
+    }
+  })])])]), _vm._v(" "), _c("div", {
+    staticClass: "swiper-slide"
+  }, [_c("div", {
+    staticClass: "partner__item"
+  }, [_c("div", {
+    staticClass: "partner__item-inner"
+  }, [_c("img", {
+    staticClass: "dark",
+    staticStyle: {
+      width: "100px"
+    },
+    attrs: {
+      src: "/assets/images/dev-icon/angula.png",
+      alt: "angula"
+    }
+  })])])]), _vm._v(" "), _c("div", {
+    staticClass: "swiper-slide"
+  }, [_c("div", {
+    staticClass: "partner__item"
+  }, [_c("div", {
+    staticClass: "partner__item-inner"
+  }, [_c("img", {
+    staticClass: "dark",
+    staticStyle: {
+      width: "100px"
+    },
+    attrs: {
+      src: "/assets/images/dev-icon/angularjs.png",
+      alt: "angularjs"
+    }
+  })])])]), _vm._v(" "), _c("div", {
+    staticClass: "swiper-slide"
+  }, [_c("div", {
+    staticClass: "partner__item"
+  }, [_c("div", {
+    staticClass: "partner__item-inner"
+  }, [_c("img", {
+    staticClass: "dark",
+    staticStyle: {
+      width: "100px"
+    },
+    attrs: {
+      src: "/assets/images/dev-icon/apache.png",
+      alt: "apache"
+    }
+  })])])]), _vm._v(" "), _c("div", {
+    staticClass: "swiper-slide"
+  }, [_c("div", {
+    staticClass: "partner__item"
+  }, [_c("div", {
+    staticClass: "partner__item-inner"
+  }, [_c("img", {
+    staticClass: "dark",
+    staticStyle: {
+      width: "100px"
+    },
+    attrs: {
+      src: "/assets/images/dev-icon/cplusplus.png",
+      alt: "cplusplus"
+    }
+  })])])]), _vm._v(" "), _c("div", {
+    staticClass: "swiper-slide"
+  }, [_c("div", {
+    staticClass: "partner__item"
+  }, [_c("div", {
+    staticClass: "partner__item-inner"
+  }, [_c("img", {
+    staticClass: "dark",
+    staticStyle: {
+      width: "100px"
+    },
+    attrs: {
+      src: "/assets/images/dev-icon/csharp.png",
+      alt: "csharp"
+    }
+  })])])]), _vm._v(" "), _c("div", {
+    staticClass: "swiper-slide"
+  }, [_c("div", {
+    staticClass: "partner__item"
+  }, [_c("div", {
+    staticClass: "partner__item-inner"
+  }, [_c("img", {
+    staticClass: "dark",
+    staticStyle: {
+      width: "100px"
+    },
+    attrs: {
+      src: "/assets/images/dev-icon/css.png",
+      alt: "css"
+    }
+  })])])]), _vm._v(" "), _c("div", {
+    staticClass: "swiper-slide"
+  }, [_c("div", {
+    staticClass: "partner__item"
+  }, [_c("div", {
+    staticClass: "partner__item-inner"
+  }, [_c("img", {
+    staticClass: "dark",
+    staticStyle: {
+      width: "100px"
+    },
+    attrs: {
+      src: "/assets/images/dev-icon/doker.png",
+      alt: "doker"
+    }
+  })])])]), _vm._v(" "), _c("div", {
+    staticClass: "swiper-slide"
+  }, [_c("div", {
+    staticClass: "partner__item"
+  }, [_c("div", {
+    staticClass: "partner__item-inner"
+  }, [_c("img", {
+    staticClass: "dark",
+    staticStyle: {
+      width: "100px"
+    },
+    attrs: {
+      src: "/assets/images/dev-icon/drupal.png",
+      alt: "drupal"
+    }
+  })])])]), _vm._v(" "), _c("div", {
+    staticClass: "swiper-slide"
+  }, [_c("div", {
+    staticClass: "partner__item"
+  }, [_c("div", {
+    staticClass: "partner__item-inner"
+  }, [_c("img", {
+    staticClass: "dark",
+    staticStyle: {
+      width: "100px"
+    },
+    attrs: {
+      src: "/assets/images/dev-icon/html.png",
+      alt: "html"
+    }
+  })])])]), _vm._v(" "), _c("div", {
+    staticClass: "swiper-slide"
+  }, [_c("div", {
+    staticClass: "partner__item"
+  }, [_c("div", {
+    staticClass: "partner__item-inner"
+  }, [_c("img", {
+    staticClass: "dark",
+    staticStyle: {
+      width: "100px"
+    },
+    attrs: {
+      src: "/assets/images/dev-icon/js.png",
+      alt: "js"
+    }
+  })])])]), _vm._v(" "), _c("div", {
+    staticClass: "swiper-slide"
+  }, [_c("div", {
+    staticClass: "partner__item"
+  }, [_c("div", {
+    staticClass: "partner__item-inner"
+  }, [_c("img", {
+    staticClass: "dark",
+    staticStyle: {
+      width: "100px"
+    },
+    attrs: {
+      src: "/assets/images/dev-icon/nodejs.png",
+      alt: "nodejs"
+    }
+  })])])]), _vm._v(" "), _c("div", {
+    staticClass: "swiper-slide"
+  }, [_c("div", {
+    staticClass: "partner__item"
+  }, [_c("div", {
+    staticClass: "partner__item-inner"
+  }, [_c("img", {
+    staticClass: "dark",
+    staticStyle: {
+      width: "100px"
+    },
+    attrs: {
+      src: "/assets/images/dev-icon/react.png",
+      alt: "react"
+    }
+  })])])]), _vm._v(" "), _c("div", {
+    staticClass: "swiper-slide"
+  }, [_c("div", {
+    staticClass: "partner__item"
+  }, [_c("div", {
+    staticClass: "partner__item-inner"
+  }, [_c("img", {
+    staticClass: "dark",
+    staticStyle: {
+      width: "100px"
+    },
+    attrs: {
+      src: "/assets/images/dev-icon/vuejs.png",
+      alt: "vuejs"
     }
   })])])])])])])])]), _vm._v(" "), _c("section", {
     staticClass: "about about--style1"
@@ -5938,9 +6154,12 @@ var render = function render() {
   }, [_vm._m(20), _vm._v(" "), _c("span", {
     staticClass: "roadmap__shape-item roadmap__shape-item--2"
   }, [_c("img", {
+    staticStyle: {
+      width: "80px"
+    },
     attrs: {
-      src: "/assets/images/icon/1.png",
-      alt: "shape-icon"
+      src: "/assets/images/dev-icon/vuejs.png",
+      alt: "vuejs"
     }
   })])])]), _vm._v(" "), _c("section", {
     staticClass: "pricing padding-top padding-bottom"
@@ -6107,8 +6326,11 @@ var render = function render() {
   }, [_vm._m(28), _vm._v(" "), _c("span", {
     staticClass: "pricing__shape-item pricing__shape-item--2"
   }, [_c("img", {
+    staticStyle: {
+      width: "80px"
+    },
     attrs: {
-      src: "/assets/images/icon/1.png",
+      src: "/assets/images/dev-icon/php.png",
       alt: "shape-icon"
     }
   })])])]), _vm._v(" "), _c("section", {
@@ -6538,12 +6760,12 @@ var staticRenderFns = [function () {
   }, [_c("li", {
     staticClass: "social__item"
   }, [_c("a", {
-    staticClass: "social__link social__link--style1 active",
+    staticClass: "social__link social__link--style1",
     attrs: {
-      href: "#"
+      href: "signin.html"
     }
   }, [_c("i", {
-    staticClass: "fab fa-facebook-f"
+    staticClass: "fab fa-git"
   })])]), _vm._v(" "), _c("li", {
     staticClass: "social__item"
   }, [_c("a", {
@@ -6561,7 +6783,7 @@ var staticRenderFns = [function () {
       href: "#"
     }
   }, [_c("i", {
-    staticClass: "fab fa-instagram"
+    staticClass: "fab fa-youtube"
   })])]), _vm._v(" "), _c("li", {
     staticClass: "social__item"
   }, [_c("a", {
@@ -6570,16 +6792,7 @@ var staticRenderFns = [function () {
       href: "#"
     }
   }, [_c("i", {
-    staticClass: "fab fa-youtube"
-  })])]), _vm._v(" "), _c("li", {
-    staticClass: "social__item"
-  }, [_c("a", {
-    staticClass: "social__link social__link--style1",
-    attrs: {
-      href: "signin.html"
-    }
-  }, [_c("i", {
-    staticClass: "fab fa-twitter"
+    staticClass: "fab fa-facebook-f"
   })])])])]);
 }, function () {
   var _vm = this,

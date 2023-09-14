@@ -14,7 +14,7 @@
                         <div class="col-lg-6 col-md-7">
                             <div class="banner__content" data-aos="fade-right" data-aos-duration="1000">
                                 <div class="banner__content-coin">
-                                    <img :src="'/assets/images/banner/home1/3.png'" alt="coin icon">
+                                    <img style="width: 100px" :src="'/assets/images/dev-icon/code.png'" alt="code icon">
                                 </div>
                                 <h1 class="banner__content-heading">Hello... <br>
                                     I am <span>Rashiqul Rony</span></h1>
@@ -29,8 +29,8 @@
                                     <p>Follow Us</p>
                                     <ul class="social">
                                         <li class="social__item">
-                                            <a href="#" class="social__link social__link--style1 active"><i
-                                                class="fab fa-facebook-f"></i></a>
+                                            <a href="signin.html" class="social__link social__link--style1"><i
+                                                class="fab fa-git"></i></a>
                                         </li>
                                         <li class="social__item">
                                             <a href="#" class="social__link social__link--style1"><i
@@ -38,15 +38,11 @@
                                         </li>
                                         <li class="social__item">
                                             <a href="#" class="social__link social__link--style1"><i
-                                                class="fab fa-instagram"></i></a>
-                                        </li>
-                                        <li class="social__item">
-                                            <a href="#" class="social__link social__link--style1"><i
                                                 class="fab fa-youtube"></i></a>
                                         </li>
                                         <li class="social__item">
-                                            <a href="signin.html" class="social__link social__link--style1"><i
-                                                class="fab fa-twitter"></i></a>
+                                            <a href="#" class="social__link social__link--style1"><i
+                                                class="fab fa-facebook-f"></i></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -61,8 +57,9 @@
                 </div>
             </div>
             <div class="banner__shape">
-      <span class="banner__shape-item banner__shape-item--1"><img :src="'/assets/images/banner/home1/4.png'"
-                                                                  alt="shape icon"></span>
+              <span class="banner__shape-item banner__shape-item--1">
+                  <img style="width: 80px" :src="'/assets/images/dev-icon/laravel.png'" alt="laravel icon">
+              </span>
             </div>
 
         </section>
@@ -75,40 +72,126 @@
                             <div class="swiper-slide">
                                 <div class="partner__item">
                                     <div class="partner__item-inner">
-                                        <img :src="'/assets/images/partner/light/1.png'" alt="partner logo"
-                                             class="dark">
+                                        <img style="width: 100px" :src="'/assets/images/dev-icon/php.png'" alt="php" class="dark">
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="partner__item">
                                     <div class="partner__item-inner">
-                                        <img :src="'/assets/images/partner/light/2.png'" alt="partner logo"
-                                             class="dark">
+                                        <img style="width: 100px" :src="'/assets/images/dev-icon/laravel.png'" alt="laravel" class="dark">
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="partner__item">
                                     <div class="partner__item-inner">
-                                        <img :src="'/assets/images/partner/light/3.png'" alt="partner logo"
-                                             class="dark">
+                                        <img style="width: 100px" :src="'/assets/images/dev-icon/codeigniter.png'" alt="codeigniter" class="dark">
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="partner__item">
                                     <div class="partner__item-inner">
-                                        <img :src="'/assets/images/partner/light/4.png'" alt="partner logo"
-                                             class="dark">
+                                        <img style="width: 100px" :src="'/assets/images/dev-icon/mysql.png'" alt="mysql" class="dark">
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="partner__item">
                                     <div class="partner__item-inner">
-                                        <img :src="'/assets/images/partner/light/5.png'" alt="partner logo"
-                                             class="dark">
+                                        <img style="width: 100px" :src="'/assets/images/dev-icon/android.png'" alt="android" class="dark">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="partner__item">
+                                    <div class="partner__item-inner">
+                                        <img style="width: 100px" :src="'/assets/images/dev-icon/angula.png'" alt="angula" class="dark">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="partner__item">
+                                    <div class="partner__item-inner">
+                                        <img style="width: 100px" :src="'/assets/images/dev-icon/angularjs.png'" alt="angularjs" class="dark">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="partner__item">
+                                    <div class="partner__item-inner">
+                                        <img style="width: 100px" :src="'/assets/images/dev-icon/apache.png'" alt="apache" class="dark">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="partner__item">
+                                    <div class="partner__item-inner">
+                                        <img style="width: 100px" :src="'/assets/images/dev-icon/cplusplus.png'" alt="cplusplus" class="dark">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="partner__item">
+                                    <div class="partner__item-inner">
+                                        <img style="width: 100px" :src="'/assets/images/dev-icon/csharp.png'" alt="csharp" class="dark">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="partner__item">
+                                    <div class="partner__item-inner">
+                                        <img style="width: 100px" :src="'/assets/images/dev-icon/css.png'" alt="css" class="dark">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="partner__item">
+                                    <div class="partner__item-inner">
+                                        <img style="width: 100px" :src="'/assets/images/dev-icon/doker.png'" alt="doker" class="dark">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="partner__item">
+                                    <div class="partner__item-inner">
+                                        <img style="width: 100px" :src="'/assets/images/dev-icon/drupal.png'" alt="drupal" class="dark">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="partner__item">
+                                    <div class="partner__item-inner">
+                                        <img style="width: 100px" :src="'/assets/images/dev-icon/html.png'" alt="html" class="dark">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="partner__item">
+                                    <div class="partner__item-inner">
+                                        <img style="width: 100px" :src="'/assets/images/dev-icon/js.png'" alt="js" class="dark">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="partner__item">
+                                    <div class="partner__item-inner">
+                                        <img style="width: 100px" :src="'/assets/images/dev-icon/nodejs.png'" alt="nodejs" class="dark">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="partner__item">
+                                    <div class="partner__item-inner">
+                                        <img style="width: 100px" :src="'/assets/images/dev-icon/react.png'" alt="react" class="dark">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="partner__item">
+                                    <div class="partner__item-inner">
+                                        <img style="width: 100px" :src="'/assets/images/dev-icon/vuejs.png'" alt="vuejs" class="dark">
                                     </div>
                                 </div>
                             </div>
@@ -626,9 +709,7 @@
             </div>
             <div class="roadmap__shape">
                 <span class="roadmap__shape-item roadmap__shape-item--1"> <span></span> </span>
-                <span class="roadmap__shape-item roadmap__shape-item--2"> <img :src="'/assets/images/icon/1.png'"
-                                                                               alt="shape-icon">
-      </span>
+                <span class="roadmap__shape-item roadmap__shape-item--2"> <img  style="width: 80px" :src="'/assets/images/dev-icon/vuejs.png'" alt="vuejs"></span>
             </div>
         </section>
 
@@ -787,9 +868,7 @@
             </div>
             <div class="pricing__shape">
                 <span class="pricing__shape-item pricing__shape-item--1"> <span></span> </span>
-                <span class="pricing__shape-item pricing__shape-item--2"> <img :src="'/assets/images/icon/1.png'"
-                                                                               alt="shape-icon">
-      </span>
+                <span class="pricing__shape-item pricing__shape-item--2"> <img style="width: 80px" :src="'/assets/images/dev-icon/php.png'" alt="shape-icon"></span>
             </div>
         </section>
 
