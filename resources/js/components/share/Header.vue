@@ -6,7 +6,7 @@
                 <div class="container">
                     <div class="header-wrapper">
                         <div class="logo">
-                            <a href="index.html">
+                            <a :href="'/'">
                                 <img class="dark" :src="'/assets/images/logo/logo.png'" alt="logo">
                             </a>
                         </div>

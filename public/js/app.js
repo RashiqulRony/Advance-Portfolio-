@@ -6648,334 +6648,10 @@ var render = function render() {
       alt: "vuejs"
     }
   })])])]), _vm._v(" "), _c("section", {
-    staticClass: "pricing padding-top padding-bottom"
-  }, [_vm._m(23), _vm._v(" "), _c("div", {
-    staticClass: "container"
-  }, [_c("div", {
-    staticClass: "pricing__wrapper"
-  }, [_c("div", {
-    staticClass: "row g-4 align-items-center"
-  }, [_c("div", {
-    staticClass: "col-md-6 col-lg-4"
-  }, [_c("div", {
-    staticClass: "pricing__item",
-    attrs: {
-      "data-aos": "fade-right",
-      "data-aos-duration": "1000"
-    }
-  }, [_c("div", {
-    staticClass: "pricing__item-inner"
-  }, [_c("div", {
-    staticClass: "pricing__item-content"
-  }, [_vm._m(24), _vm._v(" "), _c("div", {
-    staticClass: "pricing__item-middle"
-  }, [_c("ul", {
-    staticClass: "pricing__list"
-  }, [_c("li", {
-    staticClass: "pricing__list-item"
-  }, [_c("span", [_c("img", {
-    staticClass: "dark",
-    attrs: {
-      src: "/assets/images/icon/check.svg",
-      alt: "check"
-    }
-  })]), _vm._v("\n                                                Weekly online meeting\n                                            ")]), _vm._v(" "), _c("li", {
-    staticClass: "pricing__list-item"
-  }, [_c("span", [_c("img", {
-    staticClass: "dark",
-    attrs: {
-      src: "/assets/images/icon/check.svg",
-      alt: "check"
-    }
-  })]), _vm._v("\n                                                Unlimited learning access\n                                            ")]), _vm._v(" "), _c("li", {
-    staticClass: "pricing__list-item"
-  }, [_c("span", [_c("img", {
-    staticClass: "dark",
-    attrs: {
-      src: "/assets/images/icon/check.svg",
-      alt: "check"
-    }
-  })]), _vm._v("\n                                                24/7 technical support\n                                            ")]), _vm._v(" "), _c("li", {
-    staticClass: "pricing__list-item"
-  }, [_c("span", [_c("img", {
-    staticClass: "dark",
-    attrs: {
-      src: "/assets/images/icon/check.svg",
-      alt: "check"
-    }
-  })]), _vm._v("Personal training\n                                            ")])])]), _vm._v(" "), _vm._m(25)])])])]), _vm._v(" "), _c("div", {
-    staticClass: "col-md-6 col-lg-4"
-  }, [_c("div", {
-    staticClass: "pricing__item",
-    attrs: {
-      "data-aos": "fade-up",
-      "data-aos-duration": "1000"
-    }
-  }, [_c("div", {
-    staticClass: "pricing__item-inner active"
-  }, [_c("div", {
-    staticClass: "pricing__item-content"
-  }, [_vm._m(26), _vm._v(" "), _c("div", {
-    staticClass: "pricing__item-middle"
-  }, [_c("ul", {
-    staticClass: "pricing__list"
-  }, [_c("li", {
-    staticClass: "pricing__list-item"
-  }, [_c("span", [_c("img", {
-    staticClass: "dark",
-    attrs: {
-      src: "/assets/images/icon/check.svg",
-      alt: "check"
-    }
-  })]), _vm._v("\n                                                Weekly online meeting\n                                            ")]), _vm._v(" "), _c("li", {
-    staticClass: "pricing__list-item"
-  }, [_c("span", [_c("img", {
-    staticClass: "dark",
-    attrs: {
-      src: "/assets/images/icon/check.svg",
-      alt: "check"
-    }
-  })]), _vm._v("\n                                                Unlimited learning access\n                                            ")]), _vm._v(" "), _c("li", {
-    staticClass: "pricing__list-item"
-  }, [_c("span", [_c("img", {
-    staticClass: "dark",
-    attrs: {
-      src: "/assets/images/icon/check.svg",
-      alt: "check"
-    }
-  })]), _vm._v("\n                                                24/7 technical support\n                                            ")]), _vm._v(" "), _c("li", {
-    staticClass: "pricing__list-item"
-  }, [_c("span", [_c("img", {
-    staticClass: "dark",
-    attrs: {
-      src: "/assets/images/icon/check.svg",
-      alt: "check"
-    }
-  })]), _vm._v("\n                                                Personal training\n                                            ")]), _vm._v(" "), _c("li", {
-    staticClass: "pricing__list-item"
-  }, [_c("span", [_c("img", {
-    staticClass: "dark",
-    attrs: {
-      src: "/assets/images/icon/check.svg",
-      alt: "check"
-    }
-  })]), _vm._v("\n                                                Business analysis\n                                            ")])])]), _vm._v(" "), _vm._m(27)])])])]), _vm._v(" "), _c("div", {
-    staticClass: "col-md-6 col-lg-4"
-  }, [_c("div", {
-    staticClass: "pricing__item",
-    attrs: {
-      "data-aos": "fade-left",
-      "data-aos-duration": "1000"
-    }
-  }, [_c("div", {
-    staticClass: "pricing__item-inner"
-  }, [_c("div", {
-    staticClass: "pricing__item-content"
-  }, [_vm._m(28), _vm._v(" "), _c("div", {
-    staticClass: "pricing__item-middle"
-  }, [_c("ul", {
-    staticClass: "pricing__list"
-  }, [_c("li", {
-    staticClass: "pricing__list-item"
-  }, [_c("span", [_c("img", {
-    staticClass: "dark",
-    attrs: {
-      src: "/assets/images/icon/check.svg",
-      alt: "check"
-    }
-  })]), _vm._v("\n                                                With all standard features\n                                            ")]), _vm._v(" "), _c("li", {
-    staticClass: "pricing__list-item"
-  }, [_c("span", [_c("img", {
-    staticClass: "dark",
-    attrs: {
-      src: "/assets/images/icon/check.svg",
-      alt: "check"
-    }
-  })]), _vm._v("\n                                                Unlimited learning access\n                                            ")]), _vm._v(" "), _c("li", {
-    staticClass: "pricing__list-item"
-  }, [_c("span", [_c("img", {
-    staticClass: "dark",
-    attrs: {
-      src: "/assets/images/icon/check.svg",
-      alt: "check"
-    }
-  })]), _vm._v("\n                                                24/7 technical support\n                                            ")]), _vm._v(" "), _c("li", {
-    staticClass: "pricing__list-item"
-  }, [_c("span", [_c("img", {
-    staticClass: "dark",
-    attrs: {
-      src: "/assets/images/icon/check.svg",
-      alt: "check"
-    }
-  })]), _vm._v("\n                                                Personal training\n                                            ")])])]), _vm._v(" "), _vm._m(29)])])])])])])]), _vm._v(" "), _c("div", {
-    staticClass: "pricing__shape"
-  }, [_vm._m(30), _vm._v(" "), _c("span", {
-    staticClass: "pricing__shape-item pricing__shape-item--2"
-  }, [_c("img", {
-    staticStyle: {
-      width: "80px"
-    },
-    attrs: {
-      src: "/assets/images/dev-icon/php.png",
-      alt: "shape-icon"
-    }
-  })])])]), _vm._v(" "), _c("section", {
-    staticClass: "team padding-top padding-bottom bg-color"
-  }, [_vm._m(31), _vm._v(" "), _c("div", {
-    staticClass: "container"
-  }, [_c("div", {
-    staticClass: "team__wrapper"
-  }, [_c("div", {
-    staticClass: "row g-4 align-items-center"
-  }, [_c("div", {
-    staticClass: "col-sm-6 col-lg-3"
-  }, [_c("div", {
-    staticClass: "team__item team__item--shape",
-    attrs: {
-      "data-aos": "fade-up",
-      "data-aos-duration": "800"
-    }
-  }, [_c("div", {
-    staticClass: "team__item-inner team__item-inner--shape"
-  }, [_c("div", {
-    staticClass: "team__item-thumb team__item-thumb--style1"
-  }, [_c("img", {
-    staticClass: "dark",
-    attrs: {
-      src: "/assets/images/team/1.png",
-      alt: "Team Image"
-    }
-  })]), _vm._v(" "), _vm._m(32)])])]), _vm._v(" "), _c("div", {
-    staticClass: "col-sm-6 col-lg-3"
-  }, [_c("div", {
-    staticClass: "team__item team__item--shape",
-    attrs: {
-      "data-aos": "fade-up",
-      "data-aos-duration": "900"
-    }
-  }, [_c("div", {
-    staticClass: "team__item-inner team__item-inner--shape"
-  }, [_c("div", {
-    staticClass: "team__item-thumb team__item-thumb--style1"
-  }, [_c("img", {
-    staticClass: "dark",
-    attrs: {
-      src: "/assets/images/team/2.png",
-      alt: "Team Image"
-    }
-  })]), _vm._v(" "), _vm._m(33)])])]), _vm._v(" "), _c("div", {
-    staticClass: "col-sm-6 col-lg-3"
-  }, [_c("div", {
-    staticClass: "team__item team__item--shape",
-    attrs: {
-      "data-aos": "fade-up",
-      "data-aos-duration": "1000"
-    }
-  }, [_c("div", {
-    staticClass: "team__item-inner team__item-inner--shape"
-  }, [_c("div", {
-    staticClass: "team__item-thumb team__item-thumb--style1"
-  }, [_c("img", {
-    staticClass: "dark",
-    attrs: {
-      src: "/assets/images/team/3.png",
-      alt: "Team Image"
-    }
-  })]), _vm._v(" "), _vm._m(34)])])]), _vm._v(" "), _c("div", {
-    staticClass: "col-sm-6 col-lg-3"
-  }, [_c("div", {
-    staticClass: "team__item team__item--shape",
-    attrs: {
-      "data-aos": "fade-up",
-      "data-aos-duration": "1100"
-    }
-  }, [_c("div", {
-    staticClass: "team__item-inner team__item-inner--shape"
-  }, [_c("div", {
-    staticClass: "team__item-thumb team__item-thumb--style1"
-  }, [_c("img", {
-    staticClass: "dark",
-    attrs: {
-      src: "/assets/images/team/4.png",
-      alt: "Team Image"
-    }
-  })]), _vm._v(" "), _vm._m(35)])])]), _vm._v(" "), _c("div", {
-    staticClass: "col-sm-6 col-lg-3"
-  }, [_c("div", {
-    staticClass: "team__item team__item--shape",
-    attrs: {
-      "data-aos": "fade-up",
-      "data-aos-duration": "800"
-    }
-  }, [_c("div", {
-    staticClass: "team__item-inner team__item-inner--shape"
-  }, [_c("div", {
-    staticClass: "team__item-thumb team__item-thumb--style1"
-  }, [_c("img", {
-    staticClass: "dark",
-    attrs: {
-      src: "/assets/images/team/5.png",
-      alt: "Team Image"
-    }
-  })]), _vm._v(" "), _vm._m(36)])])]), _vm._v(" "), _c("div", {
-    staticClass: "col-sm-6 col-lg-3"
-  }, [_c("div", {
-    staticClass: "team__item team__item--shape",
-    attrs: {
-      "data-aos": "fade-up",
-      "data-aos-duration": "900"
-    }
-  }, [_c("div", {
-    staticClass: "team__item-inner team__item-inner--shape"
-  }, [_c("div", {
-    staticClass: "team__item-thumb team__item-thumb--style1"
-  }, [_c("img", {
-    staticClass: "dark",
-    attrs: {
-      src: "/assets/images/team/6.png",
-      alt: "Team Image"
-    }
-  })]), _vm._v(" "), _vm._m(37)])])]), _vm._v(" "), _c("div", {
-    staticClass: "col-sm-6 col-lg-3"
-  }, [_c("div", {
-    staticClass: "team__item team__item--shape",
-    attrs: {
-      "data-aos": "fade-up",
-      "data-aos-duration": "1000"
-    }
-  }, [_c("div", {
-    staticClass: "team__item-inner team__item-inner--shape"
-  }, [_c("div", {
-    staticClass: "team__item-thumb team__item-thumb--style1"
-  }, [_c("img", {
-    staticClass: "dark",
-    attrs: {
-      src: "/assets/images/team/7.png",
-      alt: "Team Image"
-    }
-  })]), _vm._v(" "), _vm._m(38)])])]), _vm._v(" "), _c("div", {
-    staticClass: "col-sm-6 col-lg-3"
-  }, [_c("div", {
-    staticClass: "team__item team__item--shape",
-    attrs: {
-      "data-aos": "fade-up",
-      "data-aos-duration": "1100"
-    }
-  }, [_c("div", {
-    staticClass: "team__item-inner team__item-inner--shape"
-  }, [_c("div", {
-    staticClass: "team__item-thumb team__item-thumb--style1"
-  }, [_c("img", {
-    staticClass: "dark",
-    attrs: {
-      src: "/assets/images/team/8.png",
-      alt: "Team Image"
-    }
-  })]), _vm._v(" "), _vm._m(39)])])]), _vm._v(" "), _vm._m(40)])])])]), _vm._v(" "), _c("section", {
     staticClass: "blog padding-top padding-bottom"
   }, [_c("div", {
     staticClass: "container"
-  }, [_vm._m(41), _vm._v(" "), _c("div", {
+  }, [_vm._m(23), _vm._v(" "), _c("div", {
     staticClass: "blog__wrapper",
     attrs: {
       "data-aos": "fade-up",
@@ -7000,7 +6676,7 @@ var render = function render() {
     }
   })]), _vm._v(" "), _c("div", {
     staticClass: "blog__content"
-  }, [_vm._m(42), _vm._v(" "), _vm._m(43), _vm._v(" "), _c("p", {
+  }, [_vm._m(24), _vm._v(" "), _vm._m(25), _vm._v(" "), _c("p", {
     staticClass: "mb-15"
   }, [_vm._v("Our platform is not only about trading—it's also a hub for\n                                            knowledge and learning.\n                                            We provide resources.")]), _vm._v(" "), _c("div", {
     staticClass: "blog__writer"
@@ -7011,7 +6687,7 @@ var render = function render() {
       src: "/assets/images/blog/author/1.png",
       alt: "writer"
     }
-  })]), _vm._v(" "), _vm._m(44)])])])])]), _vm._v(" "), _c("div", {
+  })]), _vm._v(" "), _vm._m(26)])])])])]), _vm._v(" "), _c("div", {
     staticClass: "swiper-slide"
   }, [_c("div", {
     staticClass: "blog__item blog__item--style2"
@@ -7026,7 +6702,7 @@ var render = function render() {
     }
   })]), _vm._v(" "), _c("div", {
     staticClass: "blog__content"
-  }, [_vm._m(45), _vm._v(" "), _vm._m(46), _vm._v(" "), _c("p", {
+  }, [_vm._m(27), _vm._v(" "), _vm._m(28), _vm._v(" "), _c("p", {
     staticClass: "mb-15"
   }, [_vm._v("To cater to your individual trading preferences, we offer a\n                                            variety of order types,\n                                            including market.")]), _vm._v(" "), _c("div", {
     staticClass: "blog__writer"
@@ -7037,7 +6713,7 @@ var render = function render() {
       src: "/assets/images/blog/author/2.png",
       alt: "writer"
     }
-  })]), _vm._v(" "), _vm._m(47)])])])])]), _vm._v(" "), _c("div", {
+  })]), _vm._v(" "), _vm._m(29)])])])])]), _vm._v(" "), _c("div", {
     staticClass: "swiper-slide"
   }, [_c("div", {
     staticClass: "blog__item blog__item--style2"
@@ -7052,7 +6728,7 @@ var render = function render() {
     }
   })]), _vm._v(" "), _c("div", {
     staticClass: "blog__content"
-  }, [_vm._m(48), _vm._v(" "), _vm._m(49), _vm._v(" "), _c("p", {
+  }, [_vm._m(30), _vm._v(" "), _vm._m(31), _vm._v(" "), _c("p", {
     staticClass: "mb-15"
   }, [_vm._v("Security is our top priority, and we employ robust measures\n                                            to ensure the safety of\n                                            your funds.")]), _vm._v(" "), _c("div", {
     staticClass: "blog__writer"
@@ -7063,11 +6739,11 @@ var render = function render() {
       src: "/assets/images/blog/author/3.png",
       alt: "writer"
     }
-  })]), _vm._v(" "), _vm._m(50)])])])])])])])]), _vm._v(" "), _vm._m(51)]), _vm._v(" "), _vm._m(52)]), _vm._v(" "), _c("section", {
+  })]), _vm._v(" "), _vm._m(32)])])])])])])])]), _vm._v(" "), _vm._m(33)]), _vm._v(" "), _vm._m(34)]), _vm._v(" "), _c("section", {
     staticClass: "testimonial padding-top padding-bottom-style2 bg-color"
   }, [_c("div", {
     staticClass: "container"
-  }, [_vm._m(53), _vm._v(" "), _c("div", {
+  }, [_vm._m(35), _vm._v(" "), _c("div", {
     staticClass: "testimonial__wrapper",
     attrs: {
       "data-aos": "fade-up",
@@ -7098,7 +6774,7 @@ var render = function render() {
       src: "/assets/images/testimonial/1.png",
       alt: "author"
     }
-  })]), _vm._v(" "), _vm._m(54)]), _vm._v(" "), _vm._m(55)])])])])]), _vm._v(" "), _c("div", {
+  })]), _vm._v(" "), _vm._m(36)]), _vm._v(" "), _vm._m(37)])])])])]), _vm._v(" "), _c("div", {
     staticClass: "swiper-slide"
   }, [_c("div", {
     staticClass: "testimonial__item testimonial__item--style1"
@@ -7119,7 +6795,7 @@ var render = function render() {
       src: "/assets/images/testimonial/2.png",
       alt: "author"
     }
-  })]), _vm._v(" "), _vm._m(56)]), _vm._v(" "), _vm._m(57)])])])])]), _vm._v(" "), _c("div", {
+  })]), _vm._v(" "), _vm._m(38)]), _vm._v(" "), _vm._m(39)])])])])]), _vm._v(" "), _c("div", {
     staticClass: "swiper-slide"
   }, [_c("div", {
     staticClass: "testimonial__item testimonial__item--style1"
@@ -7140,15 +6816,15 @@ var render = function render() {
       src: "/assets/images/testimonial/6.png",
       alt: "author"
     }
-  })]), _vm._v(" "), _vm._m(58)]), _vm._v(" "), _vm._m(59)])])])])])])])])])]), _vm._v(" "), _c("section", {
+  })]), _vm._v(" "), _vm._m(40)]), _vm._v(" "), _vm._m(41)])])])])])])])])])]), _vm._v(" "), _c("section", {
     staticClass: "faq padding-top padding-bottom of-hidden"
-  }, [_vm._m(60), _vm._v(" "), _c("div", {
+  }, [_vm._m(42), _vm._v(" "), _c("div", {
     staticClass: "container"
   }, [_c("div", {
     staticClass: "faq__wrapper"
   }, [_c("div", {
     staticClass: "row g-5 align-items-center justify-content-between"
-  }, [_vm._m(61), _vm._v(" "), _c("div", {
+  }, [_vm._m(43), _vm._v(" "), _c("div", {
     staticClass: "col-lg-6"
   }, [_c("div", {
     staticClass: "faq__thumb faq__thumb--style1",
@@ -7192,7 +6868,7 @@ var render = function render() {
       src: "/assets/images/cta/3.png",
       alt: "cta-thumb"
     }
-  })]), _vm._v(" "), _vm._m(62)])]), _vm._v(" "), _c("div", {
+  })]), _vm._v(" "), _vm._m(44)])]), _vm._v(" "), _c("div", {
     staticClass: "cta__shape"
   }, [_c("span", {
     staticClass: "cta__shape-item cta__shape-item--1"
@@ -7733,254 +7409,6 @@ var staticRenderFns = [function () {
   return _c("span", {
     staticClass: "roadmap__shape-item roadmap__shape-item--1"
   }, [_c("span")]);
-}, function () {
-  var _vm = this,
-    _c = _vm._self._c;
-  return _c("div", {
-    staticClass: "section-header section-header--max50"
-  }, [_c("h2", {
-    staticClass: "mb-15 mt-minus-5"
-  }, [_vm._v("Our "), _c("span", [_vm._v("pricings ")]), _vm._v("plan")]), _vm._v(" "), _c("p", [_vm._v("We offer the best pricings around - from installations to repairs, maintenance, and more!")])]);
-}, function () {
-  var _vm = this,
-    _c = _vm._self._c;
-  return _c("div", {
-    staticClass: "pricing__item-top"
-  }, [_c("h6", {
-    staticClass: "mb-15"
-  }, [_vm._v("Basic")]), _vm._v(" "), _c("h3", {
-    staticClass: "mb-25"
-  }, [_vm._v("$99/"), _c("span", [_vm._v("Monthly")])])]);
-}, function () {
-  var _vm = this,
-    _c = _vm._self._c;
-  return _c("div", {
-    staticClass: "pricing__item-bottom"
-  }, [_c("a", {
-    staticClass: "trk-btn trk-btn--outline",
-    attrs: {
-      href: "signup.html"
-    }
-  }, [_vm._v("Choose Plan")])]);
-}, function () {
-  var _vm = this,
-    _c = _vm._self._c;
-  return _c("div", {
-    staticClass: "pricing__item-top"
-  }, [_c("h6", {
-    staticClass: "mb-15"
-  }, [_vm._v("standard")]), _vm._v(" "), _c("h3", {
-    staticClass: "mb-25"
-  }, [_vm._v("$149/"), _c("span", [_vm._v("Monthly")])])]);
-}, function () {
-  var _vm = this,
-    _c = _vm._self._c;
-  return _c("div", {
-    staticClass: "pricing__item-bottom"
-  }, [_c("a", {
-    staticClass: "trk-btn trk-btn--outline active",
-    attrs: {
-      href: "signup.html"
-    }
-  }, [_vm._v("Choose\n                                            Plan")])]);
-}, function () {
-  var _vm = this,
-    _c = _vm._self._c;
-  return _c("div", {
-    staticClass: "pricing__item-top"
-  }, [_c("h6", {
-    staticClass: "mb-15"
-  }, [_vm._v("premium")]), _vm._v(" "), _c("h3", {
-    staticClass: "mb-25"
-  }, [_vm._v("$199/"), _c("span", [_vm._v("Monthly")])])]);
-}, function () {
-  var _vm = this,
-    _c = _vm._self._c;
-  return _c("div", {
-    staticClass: "pricing__item-bottom"
-  }, [_c("a", {
-    staticClass: "trk-btn trk-btn--outline",
-    attrs: {
-      href: "signup.html"
-    }
-  }, [_vm._v("Choose Plan")])]);
-}, function () {
-  var _vm = this,
-    _c = _vm._self._c;
-  return _c("span", {
-    staticClass: "pricing__shape-item pricing__shape-item--1"
-  }, [_c("span")]);
-}, function () {
-  var _vm = this,
-    _c = _vm._self._c;
-  return _c("div", {
-    staticClass: "section-header section-header--max50"
-  }, [_c("h2", {
-    staticClass: "mb-15 mt-minus-5"
-  }, [_vm._v("Meet our "), _c("span", [_vm._v("advisers")])]), _vm._v(" "), _c("p", [_vm._v("Hey everyone, meet our amazing advisers! They're here to help and guide us through anything.")])]);
-}, function () {
-  var _vm = this,
-    _c = _vm._self._c;
-  return _c("div", {
-    staticClass: "team__item-content team__item-content--style1"
-  }, [_c("div", {
-    staticClass: "team__item-author team__item-author--style1"
-  }, [_c("div", {
-    staticClass: "team__item-authorinfo"
-  }, [_c("h6", {
-    staticClass: "mb-1"
-  }, [_c("a", {
-    staticClass: "stretched-link",
-    attrs: {
-      href: "team-details.html"
-    }
-  }, [_vm._v("Dianne\n                                                Russell")])]), _vm._v(" "), _c("p", {
-    staticClass: "mb-0"
-  }, [_vm._v("Trade Captain")])])])]);
-}, function () {
-  var _vm = this,
-    _c = _vm._self._c;
-  return _c("div", {
-    staticClass: "team__item-content team__item-content--style1"
-  }, [_c("div", {
-    staticClass: "team__item-author team__item-author--style1"
-  }, [_c("div", {
-    staticClass: "team__item-authorinfo"
-  }, [_c("h6", {
-    staticClass: "mb-1"
-  }, [_c("a", {
-    staticClass: "stretched-link",
-    attrs: {
-      href: "team-details.html"
-    }
-  }, [_vm._v("Theresa\n                                                Webb")])]), _vm._v(" "), _c("p", {
-    staticClass: "mb-0"
-  }, [_vm._v("Strategic Advisor")])])])]);
-}, function () {
-  var _vm = this,
-    _c = _vm._self._c;
-  return _c("div", {
-    staticClass: "team__item-content team__item-content--style1"
-  }, [_c("div", {
-    staticClass: "team__item-author team__item-author--style1"
-  }, [_c("div", {
-    staticClass: "team__item-authorinfo"
-  }, [_c("h6", {
-    staticClass: "mb-1"
-  }, [_c("a", {
-    staticClass: "stretched-link",
-    attrs: {
-      href: "team-details.html"
-    }
-  }, [_vm._v("Courtney\n                                                Henry")])]), _vm._v(" "), _c("p", {
-    staticClass: "mb-0"
-  }, [_vm._v("Management Consultant")])])])]);
-}, function () {
-  var _vm = this,
-    _c = _vm._self._c;
-  return _c("div", {
-    staticClass: "team__item-content team__item-content--style1"
-  }, [_c("div", {
-    staticClass: "team__item-author team__item-author--style1"
-  }, [_c("div", {
-    staticClass: "team__item-authorinfo"
-  }, [_c("h6", {
-    staticClass: "mb-1"
-  }, [_c("a", {
-    staticClass: "stretched-link",
-    attrs: {
-      href: "team-details.html"
-    }
-  }, [_vm._v("Albert\n                                                Flores")])]), _vm._v(" "), _c("p", {
-    staticClass: "mb-0"
-  }, [_vm._v("Development Specialist")])])])]);
-}, function () {
-  var _vm = this,
-    _c = _vm._self._c;
-  return _c("div", {
-    staticClass: "team__item-content team__item-content--style1"
-  }, [_c("div", {
-    staticClass: "team__item-author team__item-author--style1"
-  }, [_c("div", {
-    staticClass: "team__item-authorinfo"
-  }, [_c("h6", {
-    staticClass: "mb-1"
-  }, [_c("a", {
-    staticClass: "stretched-link",
-    attrs: {
-      href: "team-details.html"
-    }
-  }, [_vm._v("Darrell\n                                                Steward")])]), _vm._v(" "), _c("p", {
-    staticClass: "mb-0"
-  }, [_vm._v("Growth Strategist")])])])]);
-}, function () {
-  var _vm = this,
-    _c = _vm._self._c;
-  return _c("div", {
-    staticClass: "team__item-content team__item-content--style1"
-  }, [_c("div", {
-    staticClass: "team__item-author team__item-author--style1"
-  }, [_c("div", {
-    staticClass: "team__item-authorinfo"
-  }, [_c("h6", {
-    staticClass: "mb-1"
-  }, [_c("a", {
-    staticClass: "stretched-link",
-    attrs: {
-      href: "team-details.html"
-    }
-  }, [_vm._v("Wade\n                                                Warren")])]), _vm._v(" "), _c("p", {
-    staticClass: "mb-0"
-  }, [_vm._v("Trade Consultant")])])])]);
-}, function () {
-  var _vm = this,
-    _c = _vm._self._c;
-  return _c("div", {
-    staticClass: "team__item-content team__item-content--style1"
-  }, [_c("div", {
-    staticClass: "team__item-author team__item-author--style1"
-  }, [_c("div", {
-    staticClass: "team__item-authorinfo"
-  }, [_c("h6", {
-    staticClass: "mb-1"
-  }, [_c("a", {
-    staticClass: "stretched-link",
-    attrs: {
-      href: "team-details.html"
-    }
-  }, [_vm._v("Cody\n                                                Fisher")])]), _vm._v(" "), _c("p", {
-    staticClass: "mb-0"
-  }, [_vm._v("HR Consultant")])])])]);
-}, function () {
-  var _vm = this,
-    _c = _vm._self._c;
-  return _c("div", {
-    staticClass: "team__item-content team__item-content--style1"
-  }, [_c("div", {
-    staticClass: "team__item-author team__item-author--style1"
-  }, [_c("div", {
-    staticClass: "team__item-authorinfo"
-  }, [_c("h6", {
-    staticClass: "mb-1"
-  }, [_c("a", {
-    staticClass: "stretched-link",
-    attrs: {
-      href: "team-details.html"
-    }
-  }, [_vm._v("Bessie\n                                                Cooper")])]), _vm._v(" "), _c("p", {
-    staticClass: "mb-0"
-  }, [_vm._v("Financial Advisor")])])])]);
-}, function () {
-  var _vm = this,
-    _c = _vm._self._c;
-  return _c("div", {
-    staticClass: "text-center"
-  }, [_c("a", {
-    staticClass: "trk-btn trk-btn--border trk-btn--primary mt-25",
-    attrs: {
-      href: "team.html"
-    }
-  }, [_vm._v("View more ")])]);
 }, function () {
   var _vm = this,
     _c = _vm._self._c;
@@ -9270,7 +8698,7 @@ var render = function render() {
     staticClass: "logo"
   }, [_c("a", {
     attrs: {
-      href: "index.html"
+      href: "/"
     }
   }, [_c("img", {
     staticClass: "dark",
